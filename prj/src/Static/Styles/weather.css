@@ -1,0 +1,47 @@
+.weather-box {
+    border: 1px solid silver;
+    border-radius: 15px;
+    padding: 20px 50px;
+    margin: 30px auto;
+    width: 400px;
+    background-color: whitesmoke;
+    box-shadow: 0 0 silver, 0 0 40px #c0c0c0;
+    font: italic 12pt "Trebuchet MS";
+    color: gray;
+    
+}
+
+.props-list{
+    margin-bottom: 30px;
+
+}
+
+.props-list table {
+    width: 100%;
+    color:gray;
+
+}
+
+.props-list th{
+    padding: 5px;
+    font: bold italic 11pt "Trebuchet MS";
+
+}
+
+.props-list td{
+    padding: 5px;
+    font: 11pt "Consolas";
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.blue {
+    color:blue;
+}
+
+.red {
+    color:red;
+}
+

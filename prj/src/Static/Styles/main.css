@@ -1,0 +1,28 @@
+.form {
+    border: 1px solid silver;
+    border-radius: 15px;
+    padding: 20px 50px;
+    margin: 30px auto;
+    width: 400px;
+    background-color: whitesmoke;
+    box-shadow: 0 0 silver, 0 0 40px silver;
+    text-align: left;
+}
+
+input{
+    width: 300px;
+    padding: 3px;
+}
+
+button{
+    width: 150px;
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+button:hover{
+    background-color: gray;
+    color: white;
+}
